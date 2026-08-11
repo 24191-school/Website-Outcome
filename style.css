@@ -1,0 +1,62 @@
+.hero-image{
+    background-image: url("HeroTextBackground.jpg");
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(226, 132, 100);
+    margin: 0;
+    margin-right: auto
+}
+a {
+    color: rgb(226, 132, 100);
+    text-align: right;
+    font-size: 30px;
+    float: right;
+    margin-top: 15px;
+}
+p{
+    color: rgb(34, 34, 34);
+    font-size: x-large  ;
+}
+
+  
+.hero-text{
+    margin: 0;
+    text-align: center; 
+    font-size: 50px
+}
+
+.mainimg img{
+    display: block;
+    width: 1892px;
+    height: auto;
+    margin-bottom: 2px;
+    object-fit: cover
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+    height: auto;
+    margin-top: -41px;
+    margin-right: 0px; 
+}
+
+.two-column{
+    display: grid;
+    grid-template-columns: 1.5fr 1fr; 
+    gap: 50px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.two-column1 {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr; 
+    gap: 50px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+    
