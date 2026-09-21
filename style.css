@@ -6,14 +6,26 @@
     background-repeat: no-repeat;
     color: rgb(226, 132, 100);
     margin: 0;
-    margin-right: 3px
+    margin-right: 3px;  
+    margin-bottom: 3px;
+}
+.hero-image2 {
+    background-image: url("HeroTextBackground2.jpg");
+    height: 35px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(226, 132, 100);
+    margin-top: 3px;
+    margin-right: 3px;
+    width: auto;
 }
 a {
     color: rgb(226, 132, 100);
-    text-align: right;
     font-size: 30px;
-    float: right;
-    margin-top: 15px;
+    margin: 0;
+    text-align: center;
+    display: block;
 }
 p{
     color: rgb(34, 34, 34);
@@ -33,6 +45,7 @@ p{
     width: 100%;
     height: auto;
     margin-bottom: 2px;
+    margin-top: 0px;
 
 }
 img{
