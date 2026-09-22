@@ -21,7 +21,7 @@
     width: auto;
 }
 a {
-    color: rgb(226, 132, 100);
+    color: rgb(252, 190, 133);
     font-size: 30px;
     margin: 0;
     text-align: center;
@@ -29,7 +29,7 @@ a {
 }
 p {
   color: rgb(34, 34, 34);
-  font-size: 2rem; 
+  font-size: 1.5rem; 
   margin-top: -20px;
 }
 
